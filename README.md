@@ -21,7 +21,7 @@ I am open to technical collaborations, research-driven projects, and discussions
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Safmica&show_icons=true&theme=dark&hide_border=true)
+![Github Stats](https://github-readme-stats-three-omega-79.vercel.app/api?username=Safmica&show_icons=true&count_private=true&include_all_commits)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Safmica&theme=github-compact)
 
 ---
