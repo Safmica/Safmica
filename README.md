@@ -4,7 +4,7 @@
 **Informatics Engineering Student (3rd Years on Sriwijaya University) | Backend Enthusiast**
 
 I am open to technical collaborations, research-driven projects, and discussions around backend systems, software architecture, and applied AI.
-> *The deeper I try to understand something, the more I realize that I know nothing.*
+> *My Confidence was Her First Reason.*
 
 ---
 
